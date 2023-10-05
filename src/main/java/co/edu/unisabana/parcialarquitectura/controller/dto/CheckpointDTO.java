@@ -11,6 +11,7 @@ public class CheckpointDTO {
   public String facility;
 
   public String driver;
+
   @JsonProperty("day_of_month")
   public int dayOfMonth;
 }
