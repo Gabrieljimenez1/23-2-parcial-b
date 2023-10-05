@@ -12,6 +12,7 @@ sourceCompatibility = '11'
 repositories {
     mavenCentral()
 }
+
 jacoco {
     toolVersion = "0.8.8"
 }
